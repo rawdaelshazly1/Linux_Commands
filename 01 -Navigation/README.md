@@ -29,7 +29,13 @@ CyberLab/
 - The difference between absolute and relative paths.
 - How to create folders and files.
 - How to display hidden files.
+  
+## Practice Progress
 
+- ✅ Completed Linux Fundamentals Part 1 on TryHackMe.
+- Practiced basic navigation commands.
+- Applied commands on Kali Linux.
+  
 ## Notes
 
 I noticed that ls -la is useful because it shows hidden files, which can be important when working on Linux systems.
