@@ -35,7 +35,28 @@ CyberLab/
 - ✅ Completed Linux Fundamentals Part 1 on TryHackMe.
 - Practiced basic navigation commands.
 - Applied commands on Kali Linux.
-  
+
+  ## TryHackMe Practice
+
+I completed the Linux Fundamentals Part 1 room on TryHackMe.
+
+### Commands I Practiced
+
+- pwd
+- ls
+- cd
+- mkdir
+- touch
+- cp
+- mv
+- rm
+- find
+- grep
+
+### What I Learned
+
+This room helped me practice the basic Linux commands in a real terminal environment. I also learned how to search for files using find and search for text inside files using grep.
+
 ## Notes
 
 I noticed that ls -la is useful because it shows hidden files, which can be important when working on Linux systems.
