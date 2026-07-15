@@ -18,9 +18,13 @@ ls -l
 
 Example:
 chmod u+x script.sh
+
 chmod g-w notes.txt
+
 chmod a+r report.txt
+
 chmod 755 script.sh
+
 ---
 
 #### chown
@@ -28,7 +32,9 @@ chmod 755 script.sh
 
 Example:
 chown root notes.txt
+
 chown root:soc notes.txt
+
 ---
 
 ## Practice
