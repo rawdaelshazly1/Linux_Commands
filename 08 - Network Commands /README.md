@@ -68,7 +68,7 @@ Sends a request to a web server and displays the response in the terminal.
 
 Example:
 
-curl https://example.com
+curl https:// example.com
 ---
 
 ### wget
@@ -77,7 +77,7 @@ Downloads files from the internet.
 
 Example:
 
-wget https://example.com/file.zip
+wget https:// example.com/file.zip
 ---
 
 ## Practice
